@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 thi is an error test
+=======
+Error changes
+.
+.
+.
+.
+.
+.
+.
+>>>>>>> 2109ba34559507486dd2f3b5ab809a1ca379600b
